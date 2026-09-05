@@ -53,4 +53,4 @@ This repository demonstrates frame-based speech analysis and resynthesis. It doe
 
 ## Portfolio
 
-See the [Engineering Portfolio](https://github.com/chengmiao2005/FPGAfinalproject/blob/main/docs/PORTFOLIO.md) for a concise overview of related projects.
+See the [Engineering Portfolio](https://github.com/chengmiao2005/FPGA-Breakout-Game/blob/main/docs/PORTFOLIO.md) for a concise overview of related projects.
